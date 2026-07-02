@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1101,
+    "name": "QUICK TV",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/Quick-TV.png",
+    "stream_url": "http://172.100.100.100:8088/1101/video.m3u8"
+  },
+  {
+    "id": 1102,
+    "name": "LIVE SPORTS",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/Live-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/101/video.m3u8"
+  },
+  {
+    "id": 1103,
+    "name": "SOMOY NEWS",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/Somoy-News.png",
+    "stream_url": "http://172.100.100.100:8088/205/video.m3u8"
+  },
+  {
+    "id": 1104,
+    "name": "PTV SPORTS",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/PTV-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/128/video.m3u8"
+  },
+  {
+    "id": 101,
+    "name": "LIVE SPORTS",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Live-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/101/video.m3u8"
+  },
+  {
+    "id": 102,
+    "name": "T-SPORTS",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/T-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/102/video.m3u8"
+  },
+  {
+    "id": 106,
+    "name": "GTV",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/GTV.png",
+    "stream_url": "http://172.100.100.100:8088/106/video.m3u8"
+  },
+  {
+    "id": 110,
+    "name": "STAR SPORTS 1",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Star-Sports-1.png",
+    "stream_url": "http://172.100.100.100:8088/110/video.m3u8"
+  },
+  {
+    "id": 115,
+    "name": "STAR SPORTS 2",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Star-Sports-2.png",
+    "stream_url": "http://172.100.100.100:8088/115/video.m3u8"
+  },
+  {
+    "id": 119,
+    "name": "SONY TEN 1",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Sony-Ten-1.png",
+    "stream_url": "http://172.100.100.100:8088/119/video.m3u8"
+  },
+  {
+    "id": 120,
+    "name": "SONY TEN 2",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Sony-Ten-2.png",
+    "stream_url": "http://172.100.100.100:8088/120/video.m3u8"
+  },
+  {
+    "id": 121,
+    "name": "SONY TEN 3",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/Sony-Ten-3.png",
+    "stream_url": "http://172.100.100.100:8088/121/video.m3u8"
+  },
+  {
+    "id": 123,
+    "name": "SPL 1",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/SPL-1.png",
+    "stream_url": "http://172.100.100.100:8088/123/video.m3u8"
+  },
+  {
+    "id": 124,
+    "name": "SPL 2",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/SPL-2.png",
+    "stream_url": "http://172.100.100.100:8088/124/video.m3u8"
+  },
+  {
+    "id": 127,
+    "name": "A SPORTS",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/A-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/127/video.m3u8"
+  },
+  {
+    "id": 128,
+    "name": "PTV SPORTS",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/PTV-Sports.png",
+    "stream_url": "http://172.100.100.100:8088/128/video.m3u8"
+  },
+  {
+    "id": 201,
+    "name": "EKATTOR TV",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Ekattor-TV.png",
+    "stream_url": "http://172.100.100.100:8088/201/video.m3u8"
+  },
+  {
+    "id": 202,
+    "name": "ATN BANGLA",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/ATN-Bangla.png",
+    "stream_url": "http://172.100.100.100:8088/202/video.m3u8"
+  },
+  {
+    "id": 203,
+    "name": "ATN NEWS",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/ATN-News.png",
+    "stream_url": "http://172.100.100.100:8088/203/video.m3u8"
+  },
+  {
+    "id": 204,
+    "name": "DBC NEWS",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/DBC-News.png",
+    "stream_url": "http://172.100.100.100:8088/204/video.m3u8"
+  },
+  {
+    "id": 205,
+    "name": "SOMOY NEWS",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Somoy-News.png",
+    "stream_url": "http://172.100.100.100:8088/205/video.m3u8"
+  },
+  {
+    "id": 206,
+    "name": "MAASRANGA TV",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Maasranga-TV.png",
+    "stream_url": "http://172.100.100.100:8088/206/video.m3u8"
+  },
+  {
+    "id": 207,
+    "name": "CHANNEL I",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Channel-I.png",
+    "stream_url": "http://172.100.100.100:8088/207/video.m3u8"
+  },
+  {
+    "id": 209,
+    "name": "JAMUNA TV",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Jamuna-TV.png",
+    "stream_url": "http://172.100.100.100:8088/209/video.m3u8"
+  },
+  {
+    "id": 301,
+    "name": "ZEE BANGLA",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Zee-Bangla.png",
+    "stream_url": "http://172.100.100.100:8088/301/video.m3u8"
+  },
+  {
+    "id": 302,
+    "name": "STAR JALSHA",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Star-Jalsha.png",
+    "stream_url": "http://172.100.100.100:8088/302/video.m3u8"
+  },
+  {
+    "id": 303,
+    "name": "JALSHA MOVIES",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Jalsha-Movies.png",
+    "stream_url": "http://172.100.100.100:8088/303/video.m3u8"
+  },
+  {
+    "id": 304,
+    "name": "COLORS BANGLA",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Colors-Bangla.png",
+    "stream_url": "http://172.100.100.100:8088/304/video.m3u8"
+  },
+  {
+    "id": 305,
+    "name": "ZEE BANGLA CINEMA",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Zee-Bangla-Cinema.png",
+    "stream_url": "http://172.100.100.100:8088/305/video.m3u8"
+  },
+  {
+    "id": 306,
+    "name": "SONY AATH",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/Sony-Aath.png",
+    "stream_url": "http://172.100.100.100:8088/306/video.m3u8"
+  },
+  {
+    "id": 401,
+    "name": "STAR PLUS",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Star-Plus.png",
+    "stream_url": "http://172.100.100.100:8088/401/video.m3u8"
+  },
+  {
+    "id": 402,
+    "name": "STAR GOLD",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Star-Gold.png",
+    "stream_url": "http://172.100.100.100:8088/402/video.m3u8"
+  },
+  {
+    "id": 403,
+    "name": "SONY ENTERTAINMENT",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Sony-Ent.png",
+    "stream_url": "http://172.100.100.100:8088/403/video.m3u8"
+  },
+  {
+    "id": 405,
+    "name": "COLORS HINDI",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Colors-Hin.png",
+    "stream_url": "http://172.100.100.100:8088/405/video.m3u8"
+  },
+  {
+    "id": 406,
+    "name": "ZEE CINEMA",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Zee-Cinema.png",
+    "stream_url": "http://172.100.100.100:8088/406/video.m3u8"
+  },
+  {
+    "id": 407,
+    "name": "SONY MAX",
+    "category": "HINDI",
+    "logo": "http://172.100.100.100/assets/images/Sony-Max.png",
+    "stream_url": "http://172.100.100.100:8088/407/video.m3u8"
+  },
+  {
+    "id": 501,
+    "name": "STAR MOVIES",
+    "category": "ENGLISH",
+    "logo": "http://172.100.100.100/assets/images/Star-Movie.png",
+    "stream_url": "http://172.100.100.100:8088/501/video.m3u8"
+  },
+  {
+    "id": 503,
+    "name": "SONY PIX",
+    "category": "ENGLISH",
+    "logo": "http://172.100.100.100/assets/images/Sony-Pix.png",
+    "stream_url": "http://172.100.100.100:8088/503/video.m3u8"
+  },
+  {
+    "id": 801,
+    "name": "DISCOVERY",
+    "category": "ENGLISH",
+    "logo": "http://172.100.100.100/assets/images/Discovery.png",
+    "stream_url": "http://172.100.100.100:8088/801/video.m3u8"
+  },
+  {
+    "id": 802,
+    "name": "NATIONAL GEOGRAPHIC",
+    "category": "ENGLISH",
+    "logo": "http://172.100.100.100/assets/images/Ngo-Gerophy.png",
+    "stream_url": "http://172.100.100.100:8088/802/video.m3u8"
+  },
+  {
+    "id": 703,
+    "name": "MASTI",
+    "category": "MUSIC",
+    "logo": "http://172.100.100.100/assets/images/Masti.png",
+    "stream_url": "http://172.100.100.100:8088/703/video.m3u8"
+  },
+  {
+    "id": 704,
+    "name": "SANGEET BANGLA",
+    "category": "MUSIC",
+    "logo": "http://172.100.100.100/assets/images/Sangit-Bangla.png",
+    "stream_url": "http://172.100.100.100:8088/704/video.m3u8"
+  },
+  {
+    "id": 601,
+    "name": "NICK",
+    "category": "KIDS",
+    "logo": "http://172.100.100.100/assets/images/Nick.png",
+    "stream_url": "http://172.100.100.100:8088/601/video.m3u8"
+  },
+  {
+    "id": 602,
+    "name": "DISNEY JUNIOR",
+    "category": "KIDS",
+    "logo": "http://172.100.100.100/assets/images/Desne-Junier.png",
+    "stream_url": "http://172.100.100.100:8088/602/video.m3u8"
+  }
+  
+]
