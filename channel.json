@@ -118,6 +118,13 @@
     "logo": "http://172.100.100.100/assets/images/independenttv.png",
     "stream_url": "http://172.100.100.100:8088/201/video.m3u8"
   },
+    {
+    "id": 200,
+    "name": "BTV",
+    "category": "BANGLA",
+    "logo": "http://172.19.178.178/tv/img/btv.png",
+    "stream_url": "http://10.10.11.12:8081/BTV/tracks-v1a1/mono.m3u8"
+  },
   {
     "id": 202,
     "name": "ATN BANGLA",
