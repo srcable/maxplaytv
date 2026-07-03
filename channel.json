@@ -24,8 +24,8 @@
     "id": 1104,
     "name": "T-Sports HD",
     "category": "Featured",
-    "logo": "http://10.10.11.12/icon/TSportsHD.png",
-    "stream_url": "http://10.10.11.12:8081/T-Sports/tracks-v1a1/mono.m3u8"
+    "logo": "http://172.100.100.100/assets/images/live.png",
+    "stream_url": "http://10.10.11.12:8081/TSportsHD2/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 101,
