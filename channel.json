@@ -13,10 +13,24 @@
     "logo": "http://172.19.178.178/tv/img/btv.png",
     "stream_url": "http://10.10.11.12:8081/BTV/tracks-v1a1/mono.m3u8"
   },
+    {
+    "id": 1100,
+    "name": "QICK TV",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/quic.jpg",
+    "stream_url": "http://172.100.100.100:8088/1101/video.m3u8"
+  },
+      {
+    "id": 1200,
+    "name": "FIFA",
+    "category": "Featured",
+    "logo": "http://172.100.100.100/assets/images/live.png",
+    "stream_url": "http://172.100.100.100:8088/101/tracks-v1a1/mono.m3u8"
+  },
   {
     "id": 1101,
-    "name": "QUICK TV",
-    "category": "BANGLA",
+    "name": "QICK TV",
+    "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/quic.jpg",
     "stream_url": "http://172.100.100.100:8088/1101/video.m3u8"
   },
@@ -37,7 +51,7 @@
   {
     "id": 1001,
     "name": "SomoyTVHD",
-    "category": "Sports",
+    "category": "BANGLA",
     "logo": "http://10.10.11.12/icon/SomoyTVHD.png",
     "stream_url": "http://10.10.11.12:8081/SomoyTVHD/index.m3u8"
   },
@@ -65,7 +79,7 @@
   {
     "id": 106,
     "name": "GTV",
-    "category": "SPORTS",
+    "category": "BANGLA",
     "logo": "http://172.100.100.100/assets/images/GTV.png",
     "stream_url": "http://172.100.100.100:8088/106/video.m3u8"
   },
@@ -219,7 +233,7 @@
   {
     "id": 1009,
     "name": "JamunaTV",
-    "category": "Sports",
+    "category": "BANGLA",
     "logo": "http://10.10.11.12/icon/JamunaTV.png",
     "stream_url": "http://10.10.11.12:8081/JAMUNA_TV/index.m3u8"
   },
