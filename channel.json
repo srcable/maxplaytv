@@ -14,11 +14,32 @@
     "stream_url": "http://172.100.100.100:8088/101/video.m3u8"
   },
   {
+    "id": 101,
+    "name": "LIVE SPORTS",
+    "category": "SPORTS",
+    "logo": "http://172.100.100.100/assets/images/live.png",
+    "stream_url": "http://172.100.100.100:8088/101/video.m3u8"
+  },
+  {
     "id": 1103,
     "name": "SOMOY NEWS",
     "category": "Featured",
     "logo": "http://172.100.100.100/assets/images/SomoyTV1689411430.png",
     "stream_url": "http://172.100.100.100:8088/205/video.m3u8"
+  },
+  {
+    "id": 205,
+    "name": "SOMOY NEWS",
+    "category": "BANGLA",
+    "logo": "http://172.100.100.100/assets/images/SomoyTV1689411430.png",
+    "stream_url": "http://172.100.100.100:8088/205/video.m3u8"
+  },
+  {
+    "id": 1001,
+    "name": "SomoyTVHD",
+    "category": "Sports",
+    "logo": "/icon/SomoyTVHD.png",
+    "stream_url": "http://10.10.11.12:8081/SomoyTVHD/index.m3u8"
   },
   {
     "id": 1104,
@@ -28,18 +49,25 @@
     "stream_url": "http://172.16.200.211/stream/hls/ch01.m3u8"
   },
   {
-    "id": 101,
-    "name": "LIVE SPORTS",
-    "category": "SPORTS",
-    "logo": "http://172.100.100.100/assets/images/live.png",
-    "stream_url": "http://172.100.100.100:8088/101/video.m3u8"
-  },
-  {
     "id": 102,
     "name": "T-SPORTS",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/Tsports.png",
     "stream_url": "http://172.100.100.100:8088/102/video.m3u8"
+  },
+  {
+    "id": 1002,
+    "name": "TSportsHD",
+    "category": "Sports",
+    "logo": "/icon/TSportsHD.png",
+    "stream_url": "http://10.10.11.12:8081/T-Sports/index.m3u8"
+  },
+  {
+    "id": 1003,
+    "name": "TSportsHD2",
+    "category": "Sports",
+    "logo": "/icon/TSportsHD.png",
+    "stream_url": "http://10.10.11.12:8081/TSportsHD2/index.m3u8"
   },
   {
     "id": 106,
@@ -56,11 +84,25 @@
     "stream_url": "http://172.100.100.100:8088/110/video.m3u8"
   },
   {
+    "id": 1004,
+    "name": "StarSports1HD",
+    "category": "Sports",
+    "logo": "/icon/StarSports1HD.png",
+    "stream_url": "http://10.10.11.12:8081/StarSports1HD/index.m3u8"
+  },
+  {
     "id": 115,
     "name": "STAR SPORTS 2",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/Star-Sports2.png",
     "stream_url": "http://172.100.100.100:8088/115/video.m3u8"
+  },
+  {
+    "id": 1005,
+    "name": "StarSports2HD",
+    "category": "Sports",
+    "logo": "/icon/StarSports2HD.png",
+    "stream_url": "http://10.10.11.12:8081/StarSports2HD/index.m3u8"
   },
   {
     "id": 119,
@@ -105,11 +147,25 @@
     "stream_url": "http://172.100.100.100:8088/127/video.m3u8"
   },
   {
+    "id": 1006,
+    "name": "PTVSportsHD",
+    "category": "Sports",
+    "logo": "/icon/PTVSportsHD.png",
+    "stream_url": "http://10.10.11.12:8081/ASportsHD/index.m3u8"
+  },
+  {
     "id": 128,
     "name": "PTV SPORTS",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/PTV.JPG",
     "stream_url": "http://172.100.100.100:8088/128/video.m3u8"
+  },
+  {
+    "id": 1007,
+    "name": "FIFA_PLUS",
+    "category": "Sports",
+    "logo": "/icon/FIFA+.png",
+    "stream_url": "http://10.10.11.12:8081/FIFA_PLUS/index.m3u8"
   },
   {
     "id": 201,
@@ -118,12 +174,19 @@
     "logo": "http://172.100.100.100/assets/images/independenttv.png",
     "stream_url": "http://172.100.100.100:8088/201/video.m3u8"
   },
-    {
+  {
     "id": 200,
     "name": "BTV",
     "category": "BANGLA",
     "logo": "http://172.19.178.178/tv/img/btv.png",
     "stream_url": "http://10.10.11.12:8081/BTV/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 1008,
+    "name": "BTV HD",
+    "category": "Bangla",
+    "logo": "/icon/live.png",
+    "stream_url": "http://10.10.11.12:8081/BTV/index.m3u8"
   },
   {
     "id": 202,
@@ -147,13 +210,6 @@
     "stream_url": "http://172.100.100.100:8088/204/video.m3u8"
   },
   {
-    "id": 205,
-    "name": "SOMOY NEWS",
-    "category": "BANGLA",
-    "logo": "http://172.100.100.100/assets/images/SomoyTV1689411430.png",
-    "stream_url": "http://172.100.100.100:8088/205/video.m3u8"
-  },
-  {
     "id": 206,
     "name": "MAASRANGA TV",
     "category": "BANGLA",
@@ -175,11 +231,32 @@
     "stream_url": "http://172.100.100.100:8088/209/video.m3u8"
   },
   {
+    "id": 1009,
+    "name": "JamunaTV",
+    "category": "Sports",
+    "logo": "/icon/JamunaTV.png",
+    "stream_url": "http://10.10.11.12:8081/JAMUNA_TV/index.m3u8"
+  },
+  {
+    "id": 1010,
+    "name": "Channel24HD",
+    "category": "Bangla",
+    "logo": "/icon/Channel24HD.png",
+    "stream_url": "http://10.10.11.12:8081/CHANEL_24/index.m3u8"
+  },
+  {
     "id": 301,
     "name": "ZEE BANGLA",
     "category": "BANGLA",
     "logo": "http://172.100.100.100/assets/images/Zee-Bangla.png",
     "stream_url": "http://172.100.100.100:8088/301/video.m3u8"
+  },
+  {
+    "id": 1011,
+    "name": "ZeeBanglaHD",
+    "category": "Bangla",
+    "logo": "/icon/ZeeBanglaHD.png",
+    "stream_url": "http://10.10.11.12:8081/ZeeBanglaHD/index.m3u8"
   },
   {
     "id": 302,
@@ -215,6 +292,20 @@
     "category": "BANGLA",
     "logo": "http://172.100.100.100/assets/images/Sony-Aath.png",
     "stream_url": "http://172.100.100.100:8088/306/video.m3u8"
+  },
+  {
+    "id": 1012,
+    "name": "SonyAATH",
+    "category": "Bangla",
+    "logo": "/icon/SonyAATH.png",
+    "stream_url": "http://10.10.11.12:8081/SonyAATH/index.m3u8"
+  },
+  {
+    "id": 1013,
+    "name": "AlJazeeraNews",
+    "category": "News",
+    "logo": "/icon/AlJazeeraEnglishHD.png",
+    "stream_url": "http://10.10.11.12:8081/ALjazeeraNews/index.m3u8"
   },
   {
     "id": 401,
