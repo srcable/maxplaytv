@@ -18,7 +18,7 @@
     "name": "QICK TV",
     "category": "Featured",
     "logo": "http://172.100.100.100/assets/images/quic.jpg",
-    "stream_url": "http://172.100.100.100:8088/1101/video.m3u8"
+    "stream_url": "http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8"
   },
       {
     "id": 1200,
