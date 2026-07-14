@@ -18,7 +18,7 @@
     "name": "QICK TV",
     "category": "Featured",
     "logo": "http://172.100.100.100/assets/images/quic.jpg",
-    "stream_url": "http://182.48.69.68:8090/hls/tsportshd3rd.m3u8"
+    "stream_url": "http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8"
   },
       {
     "id": 1200,
@@ -67,14 +67,14 @@
     "name": "TSportsHD",
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/TSportsHD.png",
-    "stream_url": "http://10.10.11.12:8081/T-Sports/index.m3u8"
+    "stream_url": "http://10.10.11.12:8081/T-Sports/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 1003,
     "name": "TSportsHD2",
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/TSportsHD.png",
-    "stream_url": "http://10.10.11.12:8081/TSportsHD2/index.m3u8"
+    "stream_url": "http://10.10.11.12:8081/SomoyTVHD/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 106,
@@ -109,7 +109,7 @@
     "name": "StarSports2HD",
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/StarSports2HD.png",
-    "stream_url": "http://10.10.11.12:8081/StarSports2HD/index.m3u8"
+    "stream_url": "http://172.100.100.100:8088/115/video.m3u8"
   },
   {
     "id": 119,
@@ -158,7 +158,7 @@
     "name": "PTVSportsHD",
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/PTVSportsHD.png",
-    "stream_url": "http://10.10.11.12:8081/ASportsHD/index.m3u8"
+    "stream_url": "http://172.16.200.205:8088/128/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 128,
@@ -169,10 +169,10 @@
   },
   {
     "id": 1007,
-    "name": "FIFA_PLUS",
+    "name": "Somoy",
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/FIFA+.png",
-    "stream_url": "http://10.10.11.12:8081/FIFA_PLUS/index.m3u8"
+    "stream_url": "http://10.10.11.12:8081/SomoyTVHD/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 201,
@@ -186,7 +186,7 @@
     "name": "BTV HD",
     "category": "Bangla",
     "logo": "http://10.10.11.12/icon/live.png",
-    "stream_url": "http://10.10.11.12:8081/BTV/index.m3u8"
+    "stream_url": "http://10.10.11.12:8081/BTV/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 202,
