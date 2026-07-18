@@ -38,7 +38,7 @@
     "id": 1101,
     "name": "QICK TV",
     "category": "SPORTS",
-    "logo": "http://10.10.11.12/icon/TSportsHD.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CDOs0X_VzIQKbD1t4Ib9nuxc5-DDgv0zc4zEOgaRCg&s",
     "stream_url": "http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8"
   },
   {
