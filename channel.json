@@ -2,226 +2,219 @@
   {
     "id": 102,
     "name": "T SPORTS",
-    "category": "SPORTS",
-    "logo": "images/TSports.jpg",
+    "category": "Featured",
+    "logo": "http://172.19.17.28/images/TSports.jpg",
     "stream_url": "http://172.19.17.3:8090/hls/tsportshd.m3u8"
+  },
+  {
+    "id": 200,
+    "name": "BTV",
+    "category": "Featured",
+    "logo": "http://172.19.17.28/images/BTV.png",
+    "stream_url": "http://172.19.17.3:8090/hls/BTVNationalHD2.m3u8"
+  },
+  {
+    "id": 205,
+    "name": "SOMOY TV",
+    "category": "Featured",
+    "logo": "http://172.19.17.28/images/somoytv.jpg",
+    "stream_url": "http://172.19.17.3:8090/hls/somoytv.m3u8"
   },
   {
     "id": 128,
     "name": "PTV SPORTS",
     "category": "SPORTS",
-    "logo": "images/ptvsports.png",
+    "logo": "http://172.19.17.28/images/ptvsports.png",
     "stream_url": "http://172.19.17.3:8090/hls/ptvsportshd.m3u8"
   },
   {
     "id": 127,
     "name": "A SPORTS",
     "category": "SPORTS",
-    "logo": "images/asportse.png",
+    "logo": "http://172.19.17.28/images/asportse.png",
     "stream_url": "http://172.19.17.3:8090/hls/ASportsHD.m3u8"
   },
   {
     "id": 123,
     "name": "STAR SPORTS SELECT",
     "category": "SPORTS",
-    "logo": "images/starsportsselect1.png",
+    "logo": "http://172.19.17.28/images/starsportsselect1.png",
     "stream_url": "http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8"
   },
   {
     "id": 124,
     "name": "STAR SPORTS SELECT 2",
     "category": "SPORTS",
-    "logo": "images/starsportsselect2hd.png",
+    "logo": "http://172.19.17.28/images/starsportsselect2hd.png",
     "stream_url": "http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8"
   },
   {
     "id": 115,
     "name": "STAR SPORTS 2",
     "category": "SPORTS",
-    "logo": "images/starsports2.png",
+    "logo": "http://172.19.17.28/images/starsports2.png",
     "stream_url": "http://172.19.17.3:8090/hls/StarSports2HD.m3u8"
   },
   {
     "id": 110,
     "name": "STAR SPORTS 1",
     "category": "SPORTS",
-    "logo": "images/starsports1.png",
+    "logo": "http://172.19.17.28/images/starsports1.png",
     "stream_url": "http://172.19.17.3:8090/hls/SonyTen5HD.m3u8"
   },
   {
     "id": 121,
     "name": "SONY SPORTS 3",
     "category": "SPORTS",
-    "logo": "images/sonysports3.png",
+    "logo": "http://172.19.17.28/images/sonysports3.png",
     "stream_url": "http://172.19.17.3:8090/hls/SonyTen2hd.m3u8"
   },
   {
     "id": 2001,
     "name": "SONY SPORTS 5",
     "category": "SPORTS",
-    "logo": "images/sonysports5.png",
+    "logo": "http://172.19.17.28/images/sonysports5.png",
     "stream_url": "http://172.19.17.3:8090/hls/SonyTen3hd.m3u8"
   },
   {
     "id": 2002,
     "name": "BEIN SPORTS1ENG",
     "category": "SPORTS",
-    "logo": "images/bein1.png",
+    "logo": "http://172.19.17.28/images/bein1.png",
     "stream_url": "http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8"
-  },
-  {
-    "id": 205,
-    "name": "SOMOY TV",
-    "category": "BANGLA",
-    "logo": "images/somoytv.jpg",
-    "stream_url": "http://172.19.17.3:8090/hls/somoytv.m3u8"
-  },
-  {
-    "id": 200,
-    "name": "BTV",
-    "category": "BANGLA",
-    "logo": "images/BTV.png",
-    "stream_url": "http://172.19.17.3:8090/hls/BTVNationalHD2.m3u8"
   },
   {
     "id": 303,
     "name": "JALSHA MOVIES",
     "category": "BANGLA",
-    "logo": "images/jalshamovies.png",
+    "logo": "http://172.19.17.28/images/jalshamovies.png",
     "stream_url": "http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8"
   },
   {
     "id": 306,
     "name": "SONY AATH",
     "category": "BANGLA",
-    "logo": "images/sonyaath.png",
+    "logo": "http://172.19.17.28/images/sonyaath.png",
     "stream_url": "http://172.19.17.3:8090/hls/SonyAtth.m3u8"
   },
   {
     "id": 302,
     "name": "STAR JALSHA",
     "category": "BANGLA",
-    "logo": "images/starjalsha.png",
+    "logo": "http://172.19.17.28/images/starjalsha.png",
     "stream_url": "http://172.19.17.3:8090/hls/StarJalshaHD.m3u8"
   },
   {
     "id": 403,
     "name": "SONY HD",
     "category": "HINDI",
-    "logo": "images/sony.png",
+    "logo": "http://172.19.17.28/images/sony.png",
     "stream_url": "http://172.19.17.3:8090/hls/SonyHD.m3u8"
   },
   {
     "id": 405,
     "name": "COLORS HD",
     "category": "HINDI",
-    "logo": "images/colors.png",
+    "logo": "http://172.19.17.28/images/colors.png",
     "stream_url": "http://172.19.17.3:8090/hls/ColorsHD.m3u8"
   },
   {
     "id": 407,
     "name": "SONY MAX",
     "category": "HINDI",
-    "logo": "images/sonymax.png",
+    "logo": "http://172.19.17.28/images/sonymax.png",
     "stream_url": "http://172.19.17.3:8090/hls/sonymaxhd.m3u8"
   },
   {
     "id": 401,
     "name": "STAR PLUS",
     "category": "HINDI",
-    "logo": "images/starplus.png",
+    "logo": "http://172.19.17.28/images/starplus.png",
     "stream_url": "http://172.19.17.3:8090/hls/StarPlusHD.m3u8"
   },
   {
     "id": 1013,
     "name": "ALJAZEERA NEWS",
     "category": "NEWS",
-    "logo": "images/aljazeranews.png",
+    "logo": "http://172.19.17.28/images/aljazeranews.png",
     "stream_url": "http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8"
   },
   {
     "id": 2004,
     "name": "BBC WORLD",
     "category": "NEWS",
-    "logo": "images/bbcworldnews.png",
+    "logo": "http://172.19.17.28/images/bbcworldnews.png",
     "stream_url": "http://172.19.17.3:8090/hls/bbc_world.m3u8"
   },
   {
     "id": 704,
     "name": "SANGEET BANGLA",
     "category": "MUSIC",
-    "logo": "images/sangeetbangla.png",
+    "logo": "http://172.19.17.28/images/sangeetbangla.png",
     "stream_url": "http://172.19.17.3:8090/hls/SangeetBangla.m3u8"
   },
   {
     "id": 2005,
     "name": "9XM",
     "category": "MUSIC",
-    "logo": "images/9xm.png",
+    "logo": "http://172.19.17.28/images/9xm.png",
     "stream_url": "http://172.19.17.3:8090/hls/9xm.m3u8"
   },
   {
     "id": 2006,
     "name": "DISCOVERY KIDS",
     "category": "KIDS",
-    "logo": "images/discoveryhd.png",
+    "logo": "http://172.19.17.28/images/discoveryhd.png",
     "stream_url": "http://172.19.17.3:8090/hls/DiscoveryKids.m3u8"
   },
   {
     "id": 2007,
     "name": "CARTOON NETWORK",
     "category": "KIDS",
-    "logo": "images/cnhd.png",
+    "logo": "http://172.19.17.28/images/cnhd.png",
     "stream_url": "http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8"
   },
   {
     "id": 2008,
     "name": "AND PICTURE",
     "category": "ENGLISH",
-    "logo": "images/andpic.png",
+    "logo": "http://172.19.17.28/images/andpic.png",
     "stream_url": "http://172.19.17.3:8090/hls/AndPictureHD.m3u8"
   },
   {
     "id": 501,
     "name": "STAR MOVIES HD",
     "category": "ENGLISH",
-    "logo": "images/star-movies-hd.jpg",
+    "logo": "http://172.19.17.28/images/star-movies-hd.jpg",
     "stream_url": "http://172.19.17.3:8090/hls/StarMoviesHD.m3u8"
   },
   {
     "id": 801,
     "name": "DISCOVERY",
     "category": "ENGLISH",
-    "logo": "images/discoveryhd.png",
+    "logo": "http://172.19.17.28/images/discoveryhd.png",
     "stream_url": "http://172.19.17.3:8090/hls/DiscoveryHD.m3u8"
   },
   {
     "id": 802,
     "name": "NAT GEO",
     "category": "ENGLISH",
-    "logo": "images/natgeo.png",
+    "logo": "http://172.19.17.28/images/natgeo.png",
     "stream_url": "http://172.19.17.3:8090/hls/NatGeoWild.m3u8"
   },
   {
     "id": 1001,
     "name": "SomoyTVHD",
-    "category": "BANGLA",
+    "category": "Featured",
     "logo": "http://10.10.11.12/icon/SomoyTVHD.png",
     "stream_url": "http://10.10.11.12:8081/SomoyTVHD/index.m3u8"
   },
   {
     "id": 1002,
     "name": "TSportsHD",
-    "category": "Sports",
+    "category": "Featured",
     "logo": "http://10.10.11.12/icon/TSportsHD.png",
     "stream_url": "http://10.10.11.12:8081/T-Sports/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "id": 1003,
-    "name": "TSportsHD2",
-    "category": "Sports",
-    "logo": "http://10.10.11.12/icon/TSportsHD.png",
-    "stream_url": "http://10.10.11.12:8081/SomoyTVHD/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 1004,
@@ -236,13 +229,6 @@
     "category": "Sports",
     "logo": "http://10.10.11.12/icon/PTVSportsHD.png",
     "stream_url": "http://172.16.200.205:8088/128/tracks-v1a1/mono.m3u8"
-  },
-  {
-    "id": 1007,
-    "name": "Somoy",
-    "category": "Sports",
-    "logo": "http://10.10.11.12/icon/FIFA+.png",
-    "stream_url": "http://10.10.11.12:8081/SomoyTVHD/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 1008,
