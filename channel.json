@@ -249,13 +249,13 @@
     "name": "Channel24HD",
     "category": "Bangla",
     "logo": "http://10.10.11.12/icon/Channel24HD.png",
-    "stream_url": "http://10.10.11.12:8081/CHANEL_24/index.m3u8"
+    "stream_url": "http://172.16.200.205:8088/209/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 1011,
     "name": "ZeeBanglaHD",
     "category": "Bangla",
     "logo": "http://10.10.11.12/icon/ZeeBanglaHD.png",
-    "stream_url": "http://10.10.11.12:8081/ZeeBanglaHD/index.m3u8"
+    "stream_url": "http://172.16.200.205:8088/301/tracks-v1a1/mono.m3u8"
   }
 ]
