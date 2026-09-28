@@ -4,7 +4,7 @@
     "name": "BTV",
     "category": "Featured",
     "logo": "http://172.19.17.28/images/BTV.png",
-    "stream_url": "http://172.100.100.100:8088/200/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.19.17.3:8090/hls/BTVNationalHD.m3u8"
   },
   {
     "id": 102,
@@ -18,7 +18,7 @@
     "name": "FIFA ASEAN Cup",
     "category": "Featured",
     "logo": "https://encdn.bd-pratidin.com/public/news_images/2026/09/09/1788965890-a2728b5d2d25b9ff7ab678d8d2fc4e60.jpg",
-    "stream_url": "http://172.100.100.100:8088/106/tracks-v1a1/mono.m3u8"
+    "stream_url": "http://172.16.200.205:8088/102/tracks-v1a1/mono.m3u8"
   },
   {
     "id": 101,
@@ -32,7 +32,7 @@
     "name": "GTV",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/GTV.png",
-    "stream_url": "http://172.100.100.100:8088/106/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.20.21.22/live/skyfeed1006/index.m3u8"
   },
   {
     "id": 110,
@@ -60,14 +60,21 @@
     "name": "SONY TEN 2",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/sonyten2.png",
-    "stream_url": "http://172.100.100.100:8088/120/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.100.100.100:8088/121/video.m3u8?token=wapR9AmH9ceWm1"
   },
   {
     "id": 121,
     "name": "SONY TEN 3",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/sonyten3.png",
-    "stream_url": "http://172.100.100.100:8088/121/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.19.17.3:8090/hls/SonyTen2hd.m3u8"
+  },
+  {
+    "id": 122,
+    "name": "SONY TEN 5",
+    "category": "SPORTS",
+    "logo": "http://172.19.17.3:8090/images/sonysports5.png",
+    "stream_url": "http://172.19.17.3:8090/hls/SonyTen3hd.m3u8"
   },
   {
     "id": 123,
@@ -95,7 +102,7 @@
     "name": "PTV SPORTS",
     "category": "SPORTS",
     "logo": "http://172.100.100.100/assets/images/ptv.png",
-    "stream_url": "http://172.100.100.100:8088/128/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.20.21.22/live/skyfeed1019/index.m3u8"
   },
   {
     "id": 2001,
@@ -256,7 +263,7 @@
     "name": "SONY MAX",
     "category": "HINDI",
     "logo": "http://172.100.100.100/assets/images/Sony%20Max%20HD1667728133.png",
-    "stream_url": "http://172.100.100.100:8088/407/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.19.17.3:8090/hls/sonymaxhd.m3u8"
   },
   {
     "id": 1013,
@@ -333,7 +340,7 @@
     "name": "MASTI",
     "category": "MUSIC",
     "logo": "http://172.100.100.100/assets/images/MASTI.png",
-    "stream_url": "http://172.100.100.100:8088/703/video.m3u8?token=wapR9AmH9ceWm1"
+    "stream_url": "http://172.19.17.3:8090/hls/ptvsportshd.m3u8"
   },
   {
     "id": 704,
